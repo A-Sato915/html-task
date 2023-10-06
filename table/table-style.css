@@ -1,0 +1,17 @@
+img{
+    width: 20%;
+}
+th, td, table{
+    border: solid 3px #00FF7F;
+    border-collapse: collapse;
+}
+body{
+    background-image: url(img/haikei.jpg);
+    background-size: contain;
+}
+h1{
+    color: #00FF7F;
+}
+th, td, li{
+    color: #EE82EE;
+}
