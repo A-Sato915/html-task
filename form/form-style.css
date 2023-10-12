@@ -1,0 +1,14 @@
+@charset "utf-8";
+input[type]{
+    margin-right: 0.5rem;
+}
+input[type]{
+    margin-top: 0.5rem;
+}
+input[type="password"]{
+    margin-top: 0.1rem;
+}
+h6{
+    font-size: 0.7rem;
+    margin-top: 0.5rem;
+}
