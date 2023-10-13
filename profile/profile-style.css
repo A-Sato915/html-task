@@ -1,0 +1,33 @@
+img{
+    width: 25%;
+}
+.text-red{
+    color: red;
+}
+.bg-black{
+    background-color: black;
+}
+body{
+    background-image: url(img/原神.png);
+    background-size: contain;
+    font-family: "HGSｺﾞｼｯｸE";
+    font-size: 20px;
+}
+h1{
+    color: red;
+}
+.text-black{
+    color: black;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-00008B{
+    background-color: #00008B;
+}
+.text-white{
+    color: white;
+}
+.bg-00BFFF{
+    background-color: #00BFFF;
+}
