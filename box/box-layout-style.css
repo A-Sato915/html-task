@@ -1,0 +1,78 @@
+@charset "utf-8";
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.big{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item{
+    text-align: center;
+    width: 25%;
+    height: 900px;
+    align-items: center; 
+    justify-content: space-between;
+    background-color: white;
+}
+
+
+h5{
+    margin: 10px;
+}
+
+.god h2{
+    margin: 10px;
+}
+
+.fusion img{
+    width: 300px;
+}
+
+.synchro img{
+    width: 300px;
+}
+
+.ritual img{
+    width: 300px;
+}
+
+.X img{
+    width: 300px;
+}
+
+.P img{
+    width: 300px;
+}
+
+.L img{
+    width: 300px;
+}
+
+.wiki{
+    width: 30%;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: gold;
+    display: block;
+    text-decoration: none;
+}
+
+p{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url(img/背景.jpg);
+}
