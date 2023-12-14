@@ -1,0 +1,26 @@
+@charset "utf-8";
+aside{
+  margin-right: 1rem;
+}
+
+.company{
+    display: flex;
+}
+
+.toyotaLink{
+    background-color: white;
+    border-radius: 7px;
+    color: rgba(0,0,0,0.7);
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.toyotaLink:hover{
+    color: crimson;
+    background-color: #eee;
+    transition:all 0.3s linear;
+}
+
+
+

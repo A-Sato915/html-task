@@ -1,0 +1,13 @@
+@charset "utf-8";
+.gpt li{
+    list-style: none;
+    background-image: url(img/gpt2.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: auto 20px;
+    padding-left: 30px;
+}
+
+img{
+    width: 50%;
+}

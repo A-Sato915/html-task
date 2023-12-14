@@ -1,0 +1,32 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "utf-8";
+
+.mark-list {
+    list-style: "★";
+}
+
+.self{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.bg-white:hover{
+    color: crimson;
+    background-color: #eee;
+    transition:all 0.3s linear;
+}
+
+.bg-white{
+    background-color: white;
+    border-radius: 2px;
+}
+
+.text-black{
+    color: black;
+}
+
+.mark-list li span{
+    background: linear-gradient(transparent 70%, crimson 30%);
+}
